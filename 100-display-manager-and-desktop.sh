@@ -70,6 +70,7 @@ pulseaudio-ctl
 lsd
 font-manager
 playerctl
+pavucontrol
 tk
 bleachbit
 nodejs
