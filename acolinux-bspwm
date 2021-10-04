@@ -21,3 +21,6 @@ thunar-archive-plugin
 thunar-volman
 xfce4-terminal
 xtitle-git
+
+# Arcolinux-spices for Arcolinux - ArchWay
+git clone https://github.com/arcolinux/arcolinux-spices
