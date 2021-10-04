@@ -184,7 +184,7 @@ cp -Rf ~/.bashrc ~/.bashrc-backup-$(date +%Y.%m.%d-%H.%M.%S)
 cp -Rf ~/.zshrc ~/.zshrc-backup-$(date +%Y.%m.%d-%H.%M.%S)
 cp -arf ./etc/skel/. ~
 
-sudo cp -arf /backgrounds/. /usr/share/backgrounds --noconfirm --needed
+sudo cp -arf ./backgrounds/. /usr/share/backgrounds
 
 tput setaf 5;echo "################################################################"
 echo "Enabling sddm as display manager"
