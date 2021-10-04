@@ -106,7 +106,6 @@ bspwm-scripts
 thunar
 thunar-archive-plugin
 thunar-volman
-xfce4-terminal
 bspwm-ruler
 #dmenu
 xdo   #Performs actions on windows (close,kill,hide etc..)
@@ -128,6 +127,7 @@ blueberry
 xfce4-settings
 xfce4-terminal
 xfce4-screensaver
+xfce4-notifyd
 
 # fonts
 ttf-meslo-nerd-font-powerlevel10k
