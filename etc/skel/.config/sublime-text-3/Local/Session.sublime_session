@@ -1,0 +1,1503 @@
+{
+	"folder_history":
+	[
+		"/home/oli/Desktop/oli_bspwm",
+		"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin",
+		"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/assets",
+		"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/DevConf-BS5-v1.0",
+		"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/appkit-landing-v2.3",
+		"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main",
+		"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-Theming-Kit-main",
+		"/home/oli/Desktop/Bootstrap-Studio/Exported",
+		"/mnt/Projects/Django_Projecet",
+		"/mnt/Projects/Django_Projecet/btre_resources/btre_resources/btre_theme/dist",
+		"/home/oli/Downloads/LiuAlgoTrader-master/liualgotrader/requirements",
+		"/mnt/Projects/Binance/Full_Stack_Trading_APP_Tutorial",
+		"/mnt/Projects/DataCamp/Datacamp/Python PROGRAMMER/16-object-oriented-programming-in-python",
+		"/mnt/Projects/Binance/Full_Stack_Trading_APP_Tutorial/algo-trade-python"
+	],
+	"last_version": 3211,
+	"last_window_id": 52,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 512.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"backgro",
+						"background-clip\tproperty"
+					],
+					[
+						"bac",
+						"background-image\tproperty"
+					],
+					[
+						"dimen",
+						"dimensional\t⟠"
+					],
+					[
+						"im",
+						"imag = real\t★ ⟠"
+					],
+					[
+						"real",
+						"real = real\t★ ⟠"
+					],
+					[
+						"alpa",
+						"alpaca_api()\tfunction ⟠"
+					],
+					[
+						"insert",
+						"insert_into_sql(…)\tfunction ⟠"
+					],
+					[
+						"list",
+						"list_assets\tfunction"
+					],
+					[
+						"if",
+						"if __name__ == '__main__':\t★ ⟠"
+					],
+					[
+						"make",
+						"make_datasets"
+					],
+					[
+						"close",
+						"close()\t⟠"
+					],
+					[
+						"open",
+						"open(…)\tfunction ⟠"
+					],
+					[
+						"ex",
+						"executable\tstatement"
+					],
+					[
+						"num",
+						"num in\t★ ⟠"
+					],
+					[
+						"pyth",
+						"python\t⟠"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python-new.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python-new.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/pythonREPL.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/pythonREPL.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install package control",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"conda ",
+						"Conda: Activate Environment"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"con",
+						"Conda: Activate Environment"
+					],
+					[
+						"cond",
+						"Conda: Activate Environment"
+					],
+					[
+						"conda",
+						"Conda: Activate Environment"
+					],
+					[
+						"package control: Package",
+						"Package Control: Install Package"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"vme",
+						"View: Toggle Menu"
+					],
+					[
+						"prv",
+						"Permute Lines: Reverse"
+					],
+					[
+						"",
+						"Build With: Python - Syntax Check"
+					],
+					[
+						"Package Control: Inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 521.0,
+				"history":
+				[
+					"view.run_command(\"htmlprettify\")",
+					"clear"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/home/oli/iso-profiles/community/i3/Packages-Desktop",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/home/oli/iso-profiles/community/i3/Packages-Root",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/var/cache/manjaro-tools/iso/community/i3/21.1.4/manjaro-i3-21.1.4-210929-linux513-pkgs.txt",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/var/lib/manjaro-tools/buildiso/i3/x86_64/desktopfs/etc/lightdm/slick-greeter.conf",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/var/lib/manjaro-tools/buildiso/xfce/x86_64/desktopfs/etc/lightdm/lightdm-gtk-greeter.conf",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/var/lib/manjaro-tools/buildiso/xfce/x86_64/desktopfs/etc/lightdm/lightdm.conf",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/desktop-overlay/etc/lightdm/lightdm.conf",
+				"/home/oli/Desktop/github-recovery-codes.txt",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/assets/bootstrap/css/bootstrap.min.css",
+				"/mnt/Linux-BackUps/iso-profiles/manjaro/xfce/Packages-Desktop",
+				"/etc/lightdm/lightdm.conf",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/Packages-Desktop",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/assets/js/theme.js",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/index.html",
+				"/home/oli/Downloads/ToXFCE/Manjaro-I3/manjaro-i3.txt",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/assets/bootstrap/js/bootstrap.min.js",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/profile.conf",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/Packages-Root",
+				"/run/media/oli/Softwares/BackUps/Linux_Backups/bspwm-manjaro/bspwm/config",
+				"/home/oli/Desktop/manjaro-i3-20.2-201205-linux59.iso-build.log",
+				"/home/oli/Downloads/rofi-master/1080p/powermenu/styles/colors.rasi",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/Packages-Mhwd",
+				"/home/oli/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/oli/.profile",
+				"/home/oli/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/DevConf-BS5-v1.0/DevConf-BS5-v1.0/assets/scss/theme/_base.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/appkit-landing-v2.3/appkit-landing-v2.3/assets/css/styles.css",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/appkit-landing-v2.3/appkit-landing-v2.3/assets/js/main.js",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/appkit-landing-v2.3/appkit-landing-v2.3/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/portal-theme-bs5-v2.0/portal-theme-bs5-v2.0/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/portal-theme-bs5-v2.0/portal-theme-bs5-v2.0/license.txt",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/assets/js/main.js",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/assets/css/main.css",
+				"/home/oli/Desktop/Bootstrap-Studio/space-free-lite/space-free-lite/space-free-lite/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/medic-full/commercial-license.txt",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/medic-full/Documentation.pdf",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/untitled.html",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/assets/js/wow.min.js",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/8_9_project_files/madmin/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/8_9_project_files/madmin/css/main.css",
+				"/tmp/ext-tmp/1000/theme.js",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/js/mdb.min.js",
+				"/home/oli/Desktop/Bootstrap-Studio/bootstrap-5.0.2-examples/sidebars/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/bootstrap-5.0.2-examples/sidebars/sidebars.js",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/bootstrap-5.1.1/scss/_variables.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/bootstrap-5.1.1/scss/_utilities.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/css/mdb.dark.min.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/8_2_project_files/madmin/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/mytheme.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/assets/css/style.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Patrik/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/looplab/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/bootstrap-5.1.1/scss/bootstrap.scss",
+				"/home/oli/.boto",
+				"/home/oli/.config/bstudio/Session Storage/LOG",
+				"/home/oli/.config/bstudio/Preferences",
+				"/home/oli/.local/share/applications/bootstrapstudio.desktop",
+				"/home/oli/.config/bstudio/customThemes5",
+				"/home/oli/.config/bstudio/favoritePackages",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/looplab/css/style.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/scss/components/_mixins.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Apple/pulse-border.css",
+				"/tmp/ext-tmp/1000/pulse-border.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/scss/fontawesome.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/assets/css/fontawesome.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/MDB5-Landing-page-tutorial-master/ripple.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-Theming-Kit-main/scss/style.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-Theming-Kit-main/theming-kit.html",
+				"/home/oli/.config/rofi/material.rasi",
+				"/home/oli/.config/sxhkd/sxhkdrc",
+				"/home/oli/.config/bspwm/autostart",
+				"/home/oli/.config/rofi/config.rasi",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-Theming-Kit-main/scss/_custom.scss",
+				"/home/oli/.config/polybar/forest/scripts/rofi/launcher.rasi",
+				"/home/oli/.config/polybar/forest/modules.ini",
+				"/home/oli/.config/rofi/monakai.rasi",
+				"/usr/share/rofi/themes/Monokai.rasi",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/src/js/mdb/util/index.js",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/src/scss/custom/_variables.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/src/scss/custom/_styles.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/css/mdb.min.css.map",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/css/mdb.min.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Exported/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Clean-Sky/assets/bootstrap/css/bootstrap.min.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Clean-Sky/assets/css/vanilla-zoom.min.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Clean-Sky/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/bootstrap-4.0.0/dist/css/bootstrap.css",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/css/style.css",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/css/default.css",
+				"/tmp/ext-tmp/1000/untitled.css",
+				"/tmp/ext-tmp/1001/styles.css",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/css/tiny-slider.css",
+				"/mnt/Projects/Django_Projecet/Dev/trydjango/src/trydjango/urls.py",
+				"/home/oli/unibeautifyrc.yaml",
+				"/home/oli/.ssh/google_cloud_ssh_key",
+				"/home/oli/.zshrc",
+				"/home/oli/Desktop/myblogawesome_me/myblogawesome.me.key",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite/medic-free-lite/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/space-free-lite/space-free-lite/space-free-lite/config.codekit3",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/css/style.css.map",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/js/main.js",
+				"/mnt/Projects/Django_Projecet/Dev/trydjango/src/pages/views.py",
+				"/tmp/Resource+Links.txt",
+				"/home/oli/.ssh/ssh_key_cloud",
+				"/home/oli/.ssh/ssh_key_cloud.pub",
+				"/home/oli/.ssh/known_hosts.old",
+				"/home/oli/.ssh/known_hosts",
+				"/tmp/untitled.py",
+				"/home/oli/Desktop/test.py",
+				"/home/oli/.config/sublime-text-3/Packages/User/Python3.9.sublime-build",
+				"/home/oli/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/oli/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/mnt/Projects/Django_Projecet/django_project-Tim/mysite/main/views.py",
+				"/mnt/Projects/Django_Projecet/btre_project/btre/settings.py",
+				"/mnt/Projects/Django_Projecet/btre_project/templates/partials/_navbar.html",
+				"/mnt/Projects/Django_Projecet/btre_project/templates/pages/index.html",
+				"/mnt/Projects/Django_Projecet/btre_project/templates/base.html",
+				"/home/oli/.vscode-insiders/extensions/ms-dotnettools.csharp-1.23.14/scripts/remoteProcessPickerScript",
+				"/tmp/xa-WJKR80/Monokai.sublime-color-scheme",
+				"/home/oli/.config/sublime-text-3/Installed Packages/Theme - Monokai Pro/Monokai Pro (Filter Machine).sublime-theme-template",
+				"/mnt/Projects/Django_Projecet/Resource+Links.txt",
+				"/home/oli/.pylintrc",
+				"/usr/share/arcolinux-betterlockscreen/arcolinux-betterlockscreen.py",
+				"/usr/share/arcolinux-betterlockscreen/Functions.py",
+				"/usr/share/arcolinux-betterlockscreen/GUI.py"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": true,
+			"output.browse":
+			{
+				"height": 186.0
+			},
+			"output.exec":
+			{
+				"height": 232.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Python3.9.sublime-build",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 83.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 307.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"backgro",
+						"background-clip\tproperty"
+					],
+					[
+						"bac",
+						"background-image\tproperty"
+					],
+					[
+						"dimen",
+						"dimensional\t⟠"
+					],
+					[
+						"im",
+						"imag = real\t★ ⟠"
+					],
+					[
+						"real",
+						"real = real\t★ ⟠"
+					],
+					[
+						"alpa",
+						"alpaca_api()\tfunction ⟠"
+					],
+					[
+						"insert",
+						"insert_into_sql(…)\tfunction ⟠"
+					],
+					[
+						"list",
+						"list_assets\tfunction"
+					],
+					[
+						"if",
+						"if __name__ == '__main__':\t★ ⟠"
+					],
+					[
+						"make",
+						"make_datasets"
+					],
+					[
+						"close",
+						"close()\t⟠"
+					],
+					[
+						"open",
+						"open(…)\tfunction ⟠"
+					],
+					[
+						"ex",
+						"executable\tstatement"
+					],
+					[
+						"num",
+						"num in\t★ ⟠"
+					],
+					[
+						"pyth",
+						"python\t⟠"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/oli/Desktop/oli_bspwm/100-display-manager-and-desktop.sh",
+					"settings":
+					{
+						"buffer_size": 3901,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/oli/Desktop/oli_bspwm/etc/skel/.config/sxhkd/sxhkdrc",
+					"settings":
+					{
+						"buffer_size": 8604,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/oli/Desktop/oli_bspwm/acolinux-bspwm",
+					"settings":
+					{
+						"buffer_size": 355,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/oli/.config/sxhkd/sxhkdrc",
+					"settings":
+					{
+						"buffer_size": 8611,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/mnt/Linux-BackUps/iso-profiles/community/i3/Packages-Desktop",
+					"settings":
+					{
+						"buffer_size": 3415,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python-new.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Conda/Conda.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python-new.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/pythonREPL.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/pythonREPL.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install package control",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"conda ",
+						"Conda: Activate Environment"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"con",
+						"Conda: Activate Environment"
+					],
+					[
+						"cond",
+						"Conda: Activate Environment"
+					],
+					[
+						"conda",
+						"Conda: Activate Environment"
+					],
+					[
+						"package control: Package",
+						"Package Control: Install Package"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"vme",
+						"View: Toggle Menu"
+					],
+					[
+						"prv",
+						"Permute Lines: Reverse"
+					],
+					[
+						"",
+						"Build With: Python - Syntax Check"
+					],
+					[
+						"Package Control: Inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 521.0,
+				"history":
+				[
+					"view.run_command(\"htmlprettify\")",
+					"clear"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/oli/Desktop/oli_bspwm"
+			],
+			"file_history":
+			[
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/home/oli/iso-profiles/community/i3/Packages-Desktop",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/home/oli/iso-profiles/community/i3/Packages-Root",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/var/cache/manjaro-tools/iso/community/i3/21.1.4/manjaro-i3-21.1.4-210929-linux513-pkgs.txt",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/var/lib/manjaro-tools/buildiso/i3/x86_64/desktopfs/etc/lightdm/slick-greeter.conf",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/var/lib/manjaro-tools/buildiso/xfce/x86_64/desktopfs/etc/lightdm/lightdm-gtk-greeter.conf",
+				"/run/media/oli/e0c22ab0-398a-430d-941a-22cba19f6b38/var/lib/manjaro-tools/buildiso/xfce/x86_64/desktopfs/etc/lightdm/lightdm.conf",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/desktop-overlay/etc/lightdm/lightdm.conf",
+				"/home/oli/Desktop/github-recovery-codes.txt",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/assets/bootstrap/css/bootstrap.min.css",
+				"/mnt/Linux-BackUps/iso-profiles/manjaro/xfce/Packages-Desktop",
+				"/etc/lightdm/lightdm.conf",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/Packages-Desktop",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/assets/js/theme.js",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/index.html",
+				"/home/oli/Downloads/ToXFCE/Manjaro-I3/manjaro-i3.txt",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/admin/assets/bootstrap/js/bootstrap.min.js",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/profile.conf",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/Packages-Root",
+				"/run/media/oli/Softwares/BackUps/Linux_Backups/bspwm-manjaro/bspwm/config",
+				"/home/oli/Desktop/manjaro-i3-20.2-201205-linux59.iso-build.log",
+				"/home/oli/Downloads/rofi-master/1080p/powermenu/styles/colors.rasi",
+				"/mnt/Linux-BackUps/iso-profiles/community/i3/Packages-Mhwd",
+				"/home/oli/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/oli/.profile",
+				"/home/oli/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/DevConf-BS5-v1.0/DevConf-BS5-v1.0/assets/scss/theme/_base.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/appkit-landing-v2.3/appkit-landing-v2.3/assets/css/styles.css",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/appkit-landing-v2.3/appkit-landing-v2.3/assets/js/main.js",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/appkit-landing-v2.3/appkit-landing-v2.3/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/portal-theme-bs5-v2.0/portal-theme-bs5-v2.0/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/UX-&-BOOTSTRAB/portal-theme-bs5-v2.0/portal-theme-bs5-v2.0/license.txt",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/assets/js/main.js",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/assets/css/main.css",
+				"/home/oli/Desktop/Bootstrap-Studio/space-free-lite/space-free-lite/space-free-lite/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/medic-full/commercial-license.txt",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/medic-full/Documentation.pdf",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/untitled.html",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite-(1)/medic-free-lite/assets/js/wow.min.js",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/8_9_project_files/madmin/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/8_9_project_files/madmin/css/main.css",
+				"/tmp/ext-tmp/1000/theme.js",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/js/mdb.min.js",
+				"/home/oli/Desktop/Bootstrap-Studio/bootstrap-5.0.2-examples/sidebars/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/bootstrap-5.0.2-examples/sidebars/sidebars.js",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/bootstrap-5.1.1/scss/_variables.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/bootstrap-5.1.1/scss/_utilities.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/css/mdb.dark.min.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/8_2_project_files/madmin/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/mytheme.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/assets/css/style.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Patrik/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/looplab/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/bootstrap-5.1.1/scss/bootstrap.scss",
+				"/home/oli/.boto",
+				"/home/oli/.config/bstudio/Session Storage/LOG",
+				"/home/oli/.config/bstudio/Preferences",
+				"/home/oli/.local/share/applications/bootstrapstudio.desktop",
+				"/home/oli/.config/bstudio/customThemes5",
+				"/home/oli/.config/bstudio/favoritePackages",
+				"/home/oli/Desktop/Bootstrap-Studio/Traversy/looplab/css/style.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/scss/components/_mixins.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Apple/pulse-border.css",
+				"/tmp/ext-tmp/1000/pulse-border.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/scss/fontawesome.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-portfolio-template-main/assets/css/fontawesome.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/MDB5-Landing-page-tutorial-master/ripple.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-Theming-Kit-main/scss/style.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-Theming-Kit-main/theming-kit.html",
+				"/home/oli/.config/rofi/material.rasi",
+				"/home/oli/.config/sxhkd/sxhkdrc",
+				"/home/oli/.config/bspwm/autostart",
+				"/home/oli/.config/rofi/config.rasi",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Bootstrap-5-Theming-Kit-main/scss/_custom.scss",
+				"/home/oli/.config/polybar/forest/scripts/rofi/launcher.rasi",
+				"/home/oli/.config/polybar/forest/modules.ini",
+				"/home/oli/.config/rofi/monakai.rasi",
+				"/usr/share/rofi/themes/Monokai.rasi",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/src/js/mdb/util/index.js",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/src/scss/custom/_variables.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/src/scss/custom/_styles.scss",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/css/mdb.min.css.map",
+				"/home/oli/Desktop/Bootstrap-Studio/MDB5-STANDARD-UI-KIT-Free-3.9.0/css/mdb.min.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Exported/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Clean-Sky/assets/bootstrap/css/bootstrap.min.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Clean-Sky/assets/css/vanilla-zoom.min.css",
+				"/home/oli/Desktop/Bootstrap-Studio/Designed/Clean-Sky/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/bootstrap-4.0.0/dist/css/bootstrap.css",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/css/style.css",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/css/default.css",
+				"/tmp/ext-tmp/1000/untitled.css",
+				"/tmp/ext-tmp/1001/styles.css",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/css/tiny-slider.css",
+				"/mnt/Projects/Django_Projecet/Dev/trydjango/src/trydjango/urls.py",
+				"/home/oli/unibeautifyrc.yaml",
+				"/home/oli/.ssh/google_cloud_ssh_key",
+				"/home/oli/.zshrc",
+				"/home/oli/Desktop/myblogawesome_me/myblogawesome.me.key",
+				"/home/oli/Desktop/Bootstrap-Studio/medic-free-lite/medic-free-lite/index.html",
+				"/home/oli/Desktop/Bootstrap-Studio/space-free-lite/space-free-lite/space-free-lite/config.codekit3",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/css/style.css.map",
+				"/home/oli/Desktop/Bootstrap-Studio/simple-template-1.1/simple-template/assets/js/main.js",
+				"/mnt/Projects/Django_Projecet/Dev/trydjango/src/pages/views.py",
+				"/tmp/Resource+Links.txt",
+				"/home/oli/.ssh/ssh_key_cloud",
+				"/home/oli/.ssh/ssh_key_cloud.pub",
+				"/home/oli/.ssh/known_hosts.old",
+				"/home/oli/.ssh/known_hosts",
+				"/tmp/untitled.py",
+				"/home/oli/Desktop/test.py",
+				"/home/oli/.config/sublime-text-3/Packages/User/Python3.9.sublime-build",
+				"/home/oli/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/oli/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/mnt/Projects/Django_Projecet/django_project-Tim/mysite/main/views.py",
+				"/mnt/Projects/Django_Projecet/btre_project/btre/settings.py",
+				"/mnt/Projects/Django_Projecet/btre_project/templates/partials/_navbar.html",
+				"/mnt/Projects/Django_Projecet/btre_project/templates/pages/index.html",
+				"/mnt/Projects/Django_Projecet/btre_project/templates/base.html",
+				"/home/oli/.vscode-insiders/extensions/ms-dotnettools.csharp-1.23.14/scripts/remoteProcessPickerScript",
+				"/tmp/xa-WJKR80/Monokai.sublime-color-scheme",
+				"/home/oli/.config/sublime-text-3/Installed Packages/Theme - Monokai Pro/Monokai Pro (Filter Machine).sublime-theme-template",
+				"/mnt/Projects/Django_Projecet/Resource+Links.txt",
+				"/home/oli/.pylintrc",
+				"/usr/share/arcolinux-betterlockscreen/arcolinux-betterlockscreen.py",
+				"/usr/share/arcolinux-betterlockscreen/Functions.py",
+				"/usr/share/arcolinux-betterlockscreen/GUI.py"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"rofi",
+					"super + d"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/oli/Desktop/oli_bspwm"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/oli/Desktop/oli_bspwm/100-display-manager-and-desktop.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3901,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1810,
+										1810
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2668,
+												2669
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1724,
+												1725
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1061.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/oli/Desktop/oli_bspwm/etc/skel/.config/sxhkd/sxhkdrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8604,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5987,
+										5987
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 5745.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/oli/Desktop/oli_bspwm/acolinux-bspwm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 355,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/oli/.config/sxhkd/sxhkdrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8611,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "/mnt/Linux-BackUps/iso-profiles/community/i3/Packages-Desktop",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										132,
+										132
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1131.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.browse":
+			{
+				"height": 186.0
+			},
+			"output.exec":
+			{
+				"height": 232.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Python3.9.sublime-build",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 83.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 51,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+conky -c /home/oli/.config/bspwm/scripts/conky_shortcuts_maia &&
+
+exit 0

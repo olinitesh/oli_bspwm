@@ -1,0 +1,46 @@
+{
+	"name": "sublime-vscode-theme",
+	"displayName": "Sublime VSCode Theme",
+	"description": "Light in the sidebar; dark everywhere else. Just like Sublime Text!",
+	"license": "MIT",
+	"author": {
+		"name": "yurihs",
+		"url": "https://yurihs.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yurihs/sublime-vscode-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/yurihs/sublime-vscode-theme/issues"
+	},
+	"publisher": "yurihs",
+	"version": "1.5.0",
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"sublime text",
+		"light sidebar",
+		"white sidebar"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sublime VSCode Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sublime-vscode-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2407eb33-6166-4707-b899-abf30c29cc4a",
+		"publisherId": "d674b1b2-1071-42f8-bdd6-ac7dd10c446c",
+		"publisherDisplayName": "yurihs",
+		"installedTimestamp": 1631387992407
+	}
+}

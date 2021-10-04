@@ -1,0 +1,150 @@
+{
+	"name": "vscode-css-snippets",
+	"displayName": "VSCode CSS Snippets",
+	"version": "0.6.1",
+	"description": "CSS Snippets for fast prototyping",
+	"categories": [
+		"Snippets"
+	],
+	"keywords": [
+		"snippets",
+		"css",
+		"tailwind"
+	],
+	"homepage": "https://github.com/navin-moorthy/vscode-css-snippets#readme",
+	"bugs": "https://github.com/navin-moorthy/vscode-css-snippets/issues",
+	"repository": "https://github.com/navin-moorthy/vscode-css-snippets",
+	"license": "MIT",
+	"author": "Navin Moorthy <navin007.a@gmail.com>",
+	"publisher": "navin-moorthy",
+	"scripts": {
+		"bootstrap": "lerna bootstrap",
+		"commit": "gacp",
+		"format": "prettier --write \"./**/*.{js,ts,css,less,json,md,html,yml,yaml,pcss,jsx,tsx}\"",
+		"format:package": "sort-package-json",
+		"lerna-version": "lerna version",
+		"lint": "eslint . --ext .js --fix"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "css",
+				"path": "./snippets/css-reset.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/pseudo.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/breakpoints.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/tailwind/layout.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/tailwind/flexbox.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/tailwind/grid.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/tailwind/spacing/padding.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/tailwind/spacing/margin.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/tailwind/spacing/space-between.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/1linelayouts/snippets.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/contributions/snippet.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/css-reset.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/pseudo.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/breakpoints.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/tailwind/layout.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/tailwind/flexbox.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/tailwind/grid.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/tailwind/spacing/padding.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/tailwind/spacing/margin.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/tailwind/spacing/space-between.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/1linelayouts/snippets.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/contributions/snippet.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@commitlint/cli": "11.0.0",
+		"@commitlint/config-conventional": "11.0.0",
+		"conventional-changelog-metahub": "4.0.1",
+		"eslint": "7.10.0",
+		"eslint-config-airbnb-base": "14.2.0",
+		"eslint-config-prettier": "6.12.0",
+		"eslint-plugin-import": "2.22.1",
+		"eslint-plugin-prettier": "3.1.4",
+		"gacp": "2.10.0",
+		"husky": "4.3.0",
+		"lerna": "3.22.1",
+		"lint-staged": "10.4.0",
+		"prettier": "2.1.2",
+		"sort-package-json": "1.46.0"
+	},
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#EA2E6E",
+		"theme": "dark"
+	},
+	"preview": true,
+	"__metadata": {
+		"id": "c44fb4af-28c3-401b-bd6d-b8a1a39f8273",
+		"publisherId": "d23e4381-3fcf-417c-a800-032ba0bc4cfc",
+		"publisherDisplayName": "Navin Moorthy"
+	}
+}

@@ -1,0 +1,1 @@
+nosuid,nodev,uid=oli,gid=users,umask=0022,x-gvfs-show

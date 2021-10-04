@@ -1,0 +1,13 @@
+  {
+    "Attribute": {
+      "prefix": "attribute",
+      "body": [
+        "",
+        "{",
+        "   \"name\": \"${1: Attribute name}\",",
+        "   \"value\": \"${2: Attribute value}\"",
+        "}"
+      ]
+    }
+  }
+  

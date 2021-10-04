@@ -1,0 +1,55 @@
+{
+	"name": "teacher-theme-dark",
+	"displayName": "teacher theme dark",
+	"description": "A theme suitable to teach code online in dark mode",
+	"version": "1.2.0",
+	"publisher": "HiteshChoudhary",
+	"author": {
+		"name": "Hitesh Choudhary",
+		"url": "https://hiteshchoudhary.com"
+	},
+	"icon": "assets/logo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hiteshchoudhary/teacher-theme-dark.git"
+	},
+	"galleryBanner": {
+		"color": "#650681",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.57.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Dark Theme",
+		"Code Tutorial",
+		"Learn Code Online",
+		"Hitesh Choudhary",
+		"Dark Theme contrast"
+	],
+	"badges": [
+		{
+			"url": "https://img.shields.io/youtube/channel/subscribers/UCXgGY0wkgOzynnHvSEVmE3A?label=Hitesh%20Choudhary&style=social",
+			"href": "https://youtube.com/hiteshchoudharydotcom",
+			"description": "Join me at Youtube"
+		}
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "teacher theme dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/teacher theme dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f90e7204-270c-433c-b10a-c27fb14704cf",
+		"publisherId": "076b06fc-3778-412d-a318-fe6f8a7e9701",
+		"publisherDisplayName": "Hitesh Choudhary",
+		"installedTimestamp": 1626138214506
+	}
+}

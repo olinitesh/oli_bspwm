@@ -1,0 +1,31 @@
+{
+	"name": "sql-snippets",
+	"displayName": "SQL Snippets",
+	"description": "SQL snippets",
+	"version": "0.0.4",
+	"publisher": "sadeghpm",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SadeghPM/sql-vscode-snipptes.git"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "sql",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "488094c1-ed52-4aa6-be5b-27b30a2eba06",
+		"publisherId": "4479c675-987a-48df-b866-5f61095e7c1e",
+		"publisherDisplayName": "SadeghPM"
+	}
+}

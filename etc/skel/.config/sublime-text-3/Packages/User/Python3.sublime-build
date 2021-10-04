@@ -1,0 +1,4 @@
+{
+	"cmd": ["xfce4-terminal -e 'bash -c \"/home/oli/anaconda3/envs/dataScience/bin/python3.9 -u $file;echo;echo Press ENTER to exit; read line\"'"],
+	"shell": true
+}

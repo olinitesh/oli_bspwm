@@ -1,0 +1,21 @@
+# Copyright 2021 Google LLC
+
+# No-op workflows to satisfy required checks
+name: "no-op"
+
+on:
+  pull_request:
+    branches:
+      - master
+    # inverse of what's in pr-dependency-check.yaml
+    paths:
+    - '**'
+    - '!**/package.json'
+    - "!**/package-lock.json"
+    - "!.github/workflows/pr-dependency-check.yaml"
+jobs:
+  package-lock-changes:
+    runs-on: ubuntu-latest
+
+    steps:
+    - run: echo "nothing to see here"

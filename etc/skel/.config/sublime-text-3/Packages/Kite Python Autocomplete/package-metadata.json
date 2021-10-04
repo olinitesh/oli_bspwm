@@ -1,0 +1,1 @@
+{"platforms": ["*"], "sublime_text": ">=3000", "description": "Kite Autocomplete Plugin for Sublime Text: Featuring AI-powered autocompletions, advanced function signatures, and instant documentation", "url": "https://github.com/kiteco/KiteSublime", "version": "0.7.5", "dependencies": []}

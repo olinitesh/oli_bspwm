@@ -1,0 +1,43 @@
+conky.config = {
+	alignment = 'bottom_right',
+	background = true,
+	color2 = '5D7B86',
+	cpu_avg_samples = 2,
+	default_color = 'F9FAF9',
+	double_buffer = true,
+	font = 'Bitstream Vera Sans:size=8',
+	draw_shades = false,
+	gap_x = 25,
+	gap_y = 45,
+	minimum_width = 200,
+	no_buffers = true,
+	own_window = true,
+	own_window_type = 'override',
+	own_window_transparent = true,
+	update_interval = 2.0,
+	use_xft = true,
+}
+
+conky.text = [[
+${color2}Make window Sticky - ${color}Super+i
+${color2}Make window Private - ${color}Super+o
+${color2}Toggle Monocle mode - ${color}Super+f
+${color2}Lock Window - ${color}Super+Escape
+${color2}Balance tree - ${color}Super+b
+${color2}Undo Balance tree - ${color}Super+Ctrl+b
+${color2}Toggle Tilting mode - ${color}Super+t
+${color2}Force all windows to Float - ${color}Super+Ctrl+Shift+t
+${color2}Toggle Fulscreen - ${color}Super+Shift+f
+${color2}Whid dmenu - ${color}Super+c
+${color2}Whid hide - ${color}Super+Shift+c
+${color2}Whid last - ${color}Super+Ctrl+c
+${color2}Move current window to largest space - ${color}Super+Space
+${color2}Select previous/next Desktop - ${color}Super+{m,n}
+${color2}Cycle Windows - ${color}Alt+{_,Shift+}Tab
+${color2}Rotate Desktop - ${color}Alt+Space
+${color2}Move tiled Windows - ${color}Super+Shift+{h,j,k,l}or{arrows}
+${color2}Resize Windows - ${color}Super+Ctrl+{h,j,k,l}or{arrows}
+${color2}Mirror and flip leaves of Tree - ${color}Super+{comma,period}
+${color2}Rotate leaves of Tree - ${color}Super+Shift+{comma,period}
+
+]]

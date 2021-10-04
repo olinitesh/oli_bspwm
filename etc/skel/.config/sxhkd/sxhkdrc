@@ -1,0 +1,408 @@
+﻿#################################################################
+# KEYBOARD BINDINGS FOR ANY TWM
+#################################################################
+
+#################################################################
+# SUPER + FUNCTION KEYS
+#################################################################
+# Show keybindings
+super + F1
+	terminal -e $HOME/.config/bspwm/scripts/keybindings.sh
+
+# Firefox
+super + shift + a
+	$BROWSER
+super + F2
+	firefox
+
+
+super
+# Thunar
+super + F3
+	thunar
+super + e
+	thunar
+
+# VScodium
+super + F4
+	vscodium
+	
+
+# VirtualBox
+super + F5
+	virtualbox
+
+# DataGrip
+super + F6
+	/home/oli/.local/share/JetBrains/Toolbox/apps/datagrip/ch-0/212.4746.86/bin/datagrip.sh
+
+
+# Rofi
+F7
+	rofi -show run
+	
+super + shift + d
+	rofi -show run
+
+# Bmenu
+#super + F6
+#	terminal -e bmenu
+super + shift + b
+	terminal -e bmenu
+	
+super + alt + h
+	xdg-open /usr/share/doc/manjaro/i3_help.pdf
+
+# Hide polybar
+super + a
+	polybar-msg cmd toggle
+
+#################################################################
+# WINDOWS - MANIPULATION
+#################################################################
+
+# Close window / Kill
+super + shift + q
+	bspc  node -c
+
+# Kill
+super + ctrl + x
+	xkill
+
+# Kill window
+super + shift + x
+	bspc  node -k
+
+# Toggle tiling mode of window
+super + shift + t
+	bspc node -t {pseudo_tiled,tiled}
+
+super + t
+	{bspc node -t floating && window-placer $(bspc query -T -d | grep -o '"state":"floating"' | wc -l),bspc node -t tiled}
+
+
+# Force all windows of the desktop to float and arrange them
+super + ctrl + shift + t
+	bspcp float
+
+
+# Toggle fullscreen
+super + shift + f 
+	bspc node -t {fullscreen,tiled}	
+
+
+
+### Map or unmap windows (functional equivalent of "minimize")
+super + c
+    whid dmenu
+           
+super + shift + c
+    whid hide 
+
+super + ctrl + c
+    whid last
+
+# Move current window to largest space or preselected area if there is one.
+super + space
+    windowpromoter  
+
+# Create a new "master area", splitting the whole desktop instead of just windows.
+alt + Return
+	bspc node -n @/
+
+# go (Shift=move) to desktop (and focus the monitor that the desktop is located on. Bspwm style)
+super + {_,ctrl + }{1-9}
+    bspc {desktop -f,node -d} ^{1-9,10}
+
+#Move window to selected desktop FOR QWERTY KEYBOARDS
+super + shift + {1-9,0}
+    id=$(bspc query -N -n); bspc node -d ^{1-9,10}; bspc node -f ${id}}
+
+
+# Select previous / next desktop
+super + {m,n}
+	bspc desktop -f {prev.occupied,next.occupied} 
+
+
+# cycle windows
+alt + {_,shift + }Tab
+    bspc node -f {next,prev}
+
+
+# Go to specific window
+super + Tab
+	bspc desktop -f '^{1-9,10}'
+
+	#Focus selected desktop
+super + shift + Tab
+	bspc desktop -f '^{1-9,10}'
+
+#Rotate desktop
+alt + space
+	bspc node @/ --rotate {90,-90}
+
+#Focus windows by direction, works with multihead
+super +  {h,j,k,l}
+    focusmover {west,south,north,east}
+
+super +  {Left,Down,Up,Right}
+    focusmover {west,south,north,east}
+
+# Move tiled windows. Moving a tiled window to 
+# preselected one moves into preselection instead. 
+# Moving out of the screen should move the window to next monitor if possible
+
+#super + shift + {a,s,w,d}
+#	windowgrabber {west,south,north,east}
+
+super + shift + {h,j,k,l}
+	windowgrabber {west,south,north,east}
+
+
+# Different style of movement: transplant into window in chosen direction
+super + shift + {Left,Down,Up,Right}
+	euclid_mover {west,south,north,east}
+
+
+#resize windows
+super + ctrl + {h,j,k,l}
+	bspwm_resize.sh {west,south,north,east}
+
+super + ctrl + {Left,Down,Up,Right}
+	bspwm_resize.sh {west,south,north,east}
+
+
+#################################################################
+# Layout manipulation/desktop level controls
+#################################################################
+
+#################################################################
+## Floating windows can have any size and position. 
+# Pseudo-tiled windows can have any size but are centered in their place. 
+# Tiled windows have size and  place determined by their node. 
+# Full screen windows just cover everything. 
+	
+## Additionally, bspwm has a few window flags. 
+# Sticky windows are visible on all workspaces. 
+# Private windows are not splitted when bspwm is in automatic mode (this is not default in bspwm-manjaro). 
+# Locked windows do not close with regular super+shift+q keybinding.
+#################################################################	
+
+# Make window sticky
+super + i
+	bspc node -g sticky
+
+# Toggle monocle mode
+super + f 
+	bspc desktop -l next
+
+# Try to keep size and position of the selected window
+super + o
+	bspc node -g private
+
+# Lock a window from closing
+super + Escape
+	bspc node -g locked 
+
+# Balance tree
+super + b
+	bspc node @/ -B
+
+
+# Undo balancing (equalize windows)
+super + ctrl + b
+	bspc node @/ -E
+
+# Toggle automatic balancing of windows
+alt + b
+	euclid_balancer
+
+
+# Mirror and flip leaves of tree
+super + {comma,period}
+	bspc node @/ -F {horizontal,vertical}
+	
+# Rotate leaves of tree
+super + shift + {comma,period}
+	bspc node @/ -R {90,270}
+
+
+# Change window gap
+super + button{4,5}
+	bspc config -d focused window_gap $((`bspc config -d focused window_gap` {+,-} 2 ))
+
+
+~button2
+	DidIClickDesktop.sh && mygtkmenui -- .config/GTKmenu/BspwmDesktopMenui
+
+~button3
+	DidIClickDesktop.sh && mygtkmenui -- .config/GTKmenu/LaunchMenu
+
+
+# Spawn applications popup menu and manually tile selected 
+# app where your mouse was when you opened the menu. Smartsplit only chooses
+# biggest dimension of the window, MouseLaunch only cares which edge is closer.
+# mod5 is alt_gr (first key right from space) on most keyboards. 
+mod5 + @button1
+    MouseLaunch ; mygtkmenui -- .config/GTKmenu/LaunchMenu
+#	smartsplit ; dboxmenu
+
+# Spawn window manipulation menuq
+# Mod1 is alt
+#    BspwmWindowMenu
+mod1 + @button1
+    mygtkmenui -- .config/GTKmenu/BspwmWindowMenui
+
+
+#################################################################
+# RUN APPLICATIONS	
+#################################################################
+# run applications
+super + d
+	$HOME/.config/rofi/dmenu_mine.sh
+
+
+ # Triggered by just tapping LEFT super key
+super + shift + space
+	rofi -show
+
+
+# Launch fzf Pacsearch
+super + p
+	$TERMINAL -e $HOME/.config/bspwm/scripts/pacfzf
+
+# Launch fzf Yaysearch
+super + y
+	$TERMINAL -e $HOME/.config/bspwm/scripts/yayfzf
+
+# TERMINAL
+super + Return
+	default-terminal
+
+
+super + shift + Return
+	terminator
+
+super + x
+	$HOME/.config/bspwm/scripts/rofi-finder.sh
+
+super + {0}
+	arcolinux-logout
+#	 $HOME/.config/rofi/powermenu/powermenu.sh
+#	 $HOME/.config/polybar/forest/scripts/powermenu.sh {-p, -n} -x -s 20
+
+super + z
+	morc_menu
+
+# Use slightly bigger font for ranger
+super + r 
+	sterminal ranger
+
+#################################################################
+# SUPER + SHIFT KEYS
+#################################################################
+
+# make sxhkd reload its configuration files:
+super + shift + Escape
+	pkill -USR1 -x sxhkd
+
+# Cleanly quit bspwm
+super + shift + {e,r}
+	bspc {quit 1 && pkill polybar,wm -r}
+#
+# Window manipulation
+# ______________
+
+
+
+# go (Shift=move) to desktop (and focus the monitor that the desktop is located on. Bspwm style)
+super + {_,shift + }{1-9}
+    bspc {desktop -f,node -d} ^{1-9,10}
+
+
+#################################################################
+#     MULTIMEDIA KEYS
+#################################################################
+
+
+
+# Media keys
+#
+
+## Raises Volume
+XF86AudioRaiseVolume
+	pulseaudio-ctl up 10%
+	#amixer set Master 10%+
+
+## Lowers Volume
+XF86AudioLowerVolume
+	pulseaudio-ctl down 10%
+	#amixer set Master 10%-
+
+## MUTE
+XF86AudioMute
+	pulseaudio-ctl mute
+	#amixer -D pulse set Master 1+ toggle
+
+## Brightness Down	
+XF86MonBrightnessDown
+	xbacklight -dec 5
+	
+# PLAY
+XF86AudioPlay
+	playerctl play-pause
+
+# Next
+XF86AudioNext
+	playerctl next
+
+# Previous
+XF86AudioPrev
+	playerctl previous
+
+# Stop
+XF86AudioStop
+	playerctl stop
+ 
+## Brightness Up    
+XF86MonBrightnessUp
+	xbacklight -inc 5
+ 
+
+XF86Sleep
+	systemctl suspend
+
+# In case bspwmrc fails to execute/you wish have plugged in a new monitor
+super + ctrl + r
+	terminal -e micro $HOME/.config/bspwm/bspwmrc
+
+#edit this file
+alt + ctrl + space
+	xdg-open ~/.config/sxhkd/sxhkdrc
+
+# Toggle compositing
+super + ctrl + space
+	{pkill picom ,\
+	picom -b }
+
+# LockScreen
+super + F9
+	betterlockscreen -l dimblur
+
+
+#################################################################
+#     FUNCTION KEYS
+#################################################################
+
+#xfce4-terminal dropdown
+super + F12
+    xfce4-terminal --drop-down
+
+#########################
+#        POLYBAR        #
+#########################
+
+#Hide polybar
+super + shift + p
+    polybar-msg cmd toggle
+
