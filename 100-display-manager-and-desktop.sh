@@ -51,6 +51,10 @@ list=(
 #arcolinux-wallpapers-git
 #arcolinux-xfce-git
 #arcolinux-local-xfce4-git
+#illyria-wallpaper
+numlockx
+manjaro-wallpapers-18.0
+manjaro-pulse
 rofi
 terminator
 xfce4-terminal
