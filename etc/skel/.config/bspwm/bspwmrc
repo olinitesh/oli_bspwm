@@ -1,7 +1,8 @@
 #! /bin/sh
 
-$HOME/.config/bspwm/autostart.sh
-
+#$HOME/.config/bspwm/autostart.sh
+# Polybar
+$HOME/.config/polybar/forest/launch.sh &
 pgrep -x sxhkd > /dev/null || sxhkd &
 
 ## Load appearance settings
@@ -221,3 +222,5 @@ bspc config external_rules_command /usr/bin/pseudo_automatic_mode
 #limepanel &
 
 #/media/sf_BackUps/new/polybar_arcolinux/launch.sh &
+
+
