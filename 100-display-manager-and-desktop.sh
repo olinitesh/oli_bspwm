@@ -52,6 +52,7 @@ list=(
 #arcolinux-xfce-git
 #arcolinux-local-xfce4-git
 #illyria-wallpaper
+arcolinux-alacritty-git
 numlockx
 manjaro-wallpapers-18.0
 manjaro-pulse
