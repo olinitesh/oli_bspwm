@@ -167,6 +167,9 @@ awesome-terminal-fonts
 polybar
 #arcolinux-polybar-git
 #arcolinux-logout-git
+urxvt-fullscreen
+urxvt-perls
+urxvt-resize-font-git
 )
 
 count=0
