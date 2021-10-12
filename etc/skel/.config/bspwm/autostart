@@ -7,7 +7,7 @@ xsetroot -cursor_name left_ptr &
 #sh ~/.fehbg &
 nitrogen --restore
 
-clipman &
+mailspring &
 
 numlockx on &
 start-pulseaudio-x11 &
@@ -16,12 +16,15 @@ pa-applet &
 clipit &
 nm-applet &
 xfce4-power-manager &
-blueberry-tray &
+#blueberry-tray &
 start_conky_maia &
 fix_xcursor &
 /home/oli/.config/bspwm/scripts/conky_shortcuts &
 conky -c /home/oli/.config/bspwm/scripts/Z333-vision.conkyrc &
 manjaro-hello &
+
+/var/lib/snapd/snap/bin/nordpass &
+
 
 ## Notify about package updates
 update-checker 7200 &
