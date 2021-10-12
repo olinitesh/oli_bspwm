@@ -48,13 +48,13 @@ echo "Installation of the core software"
 
 list=(
 #sddm
-#arcolinux-wallpapers-git
+arcolinux-wallpapers-git
 #arcolinux-xfce-git
 #arcolinux-local-xfce4-git
 #illyria-wallpaper
 gcc
 bash-completion
-arcolinux-alacritty-git
+#arcolinux-alacritty-git
 numlockx
 manjaro-wallpapers-18.0
 manjaro-pulse
@@ -62,15 +62,14 @@ rofi
 terminator
 xfce4-terminal
 nitrogen
-bspwm
-sxhkd
-dmenu
+#bspwm
+#sxhkd
+#dmenu
 xdo
-feh
+#feh
 polkit-gnome
 dnsutils
 xcape
-numlockx
 # from bspwm
 pulseaudio-ctl
 #notify-osd
@@ -86,7 +85,7 @@ npm
 tumbler
 timeshift
 gnome-disk-utility
-#neovim
+neovim
 cmake
 ninja
 tree-sitter
@@ -104,8 +103,8 @@ devmon
 neofetch
 update-notifier
 sxhkd
-bspwm-manjaro
-bspwm-scripts
+#bspwm-manjaro
+#bspwm-scripts
 #bspwm
 #bspwm-manjaro
 
@@ -118,8 +117,8 @@ bspwm-ruler
 #dmenu
 xdo   #Performs actions on windows (close,kill,hide etc..)
 feh
-#sutils-git
-#xtitle-git
+sutils-git
+xtitle-git
 polybar
 lxrandr
 
@@ -169,10 +168,17 @@ file-roller
 awesome-terminal-fonts
 polybar
 #arcolinux-polybar-git
-#arcolinux-logout-git
+arcolinux-logout-git
+arcolinux-logout-themes-git
 urxvt-fullscreen
 urxvt-perls
 urxvt-resize-font-git
+yay
+
+matcha-gtk-theme
+mailspring
+lightdm-gtk-greeter
+lightdm-gtk-settings
 )
 
 count=0
