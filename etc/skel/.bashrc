@@ -138,6 +138,8 @@ ex ()
   fi
 }
 
+[[ -f ~/.bash_aliases ]] && . ~/.bash_aliases
+
 neofetch
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
