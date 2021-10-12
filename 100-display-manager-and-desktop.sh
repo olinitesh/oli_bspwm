@@ -179,6 +179,9 @@ matcha-gtk-theme
 mailspring
 lightdm-gtk-greeter
 lightdm-gtk-settings
+
+virtualbox
+linux514-virtualbox-host-modules
 )
 
 count=0
@@ -208,6 +211,8 @@ echo "Enabling sddm as display manager"
 echo "################################################################"
 echo;tput sgr0
 #sudo systemctl enable sddm.service -f
+
+sudo vboxdrv
 
 tput setaf 7;echo "################################################################"
 echo "You now have a very minimal functional desktop"
