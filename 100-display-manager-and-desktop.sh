@@ -184,6 +184,7 @@ virtualbox
 linux515-virtualbox-host-modules
 
 wmname
+seahorse
 )
 
 count=0
