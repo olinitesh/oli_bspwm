@@ -181,7 +181,9 @@ lightdm-gtk-greeter
 lightdm-gtk-settings
 
 virtualbox
-linux514-virtualbox-host-modules
+linux515-virtualbox-host-modules
+
+wmname
 )
 
 count=0
