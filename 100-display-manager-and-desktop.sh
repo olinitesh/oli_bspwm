@@ -103,7 +103,7 @@ devmon
 neofetch
 update-notifier
 sxhkd
-#bspwm-manjaro
+bspwm-manjaro
 #bspwm-scripts
 #bspwm
 #bspwm-manjaro
@@ -168,8 +168,7 @@ file-roller
 awesome-terminal-fonts
 polybar
 #arcolinux-polybar-git
-arcolinux-logout-git
-arcolinux-logout-themes-git
+
 urxvt-fullscreen
 urxvt-perls
 urxvt-resize-font-git
@@ -180,8 +179,10 @@ mailspring
 lightdm-gtk-greeter
 lightdm-gtk-settings
 
-virtualbox
+#virtualbox
 linux515-virtualbox-host-modules
+#arcolinux-logout-git
+#arcolinux-logout-themes-git
 
 wmname
 seahorse
