@@ -14,8 +14,8 @@ if pgrep -x openvpn > /dev/null; then
     echo $connection_list | awk -F'-' '{print $2}'
     
 else
-    echo Local-IP: $IP
-    #echo "# $(curl -4 -sf ifconfig.co)"
+    #echo Local-IP: $IP
+    echo "# $(curl -4 -sf ifconfig.co)"
     #ip_address=$(curl --silent https://ipaddr.pub)
     #echo $ip_address
 fi
