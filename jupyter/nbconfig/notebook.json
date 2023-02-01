@@ -1,0 +1,12 @@
+{
+  "load_extensions": {
+    "autoscroll/main": true,
+    "comment-uncomment/main": true
+  },
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true,
+			"lineWrapping": true
+    }
+  }
+}

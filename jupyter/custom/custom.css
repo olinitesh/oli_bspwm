@@ -1,0 +1,106 @@
+/*This file contains any manual css for this page that needs to override the global styles.
+This is only required when different pages style the same element differently. This is just
+a hack to deal with our current css styles and no new styling should be added in this file.*/
+
+#ipython-main-app {
+    position: relative;
+}
+#jupyter-main-app {
+    position: relative;
+}
+
+#ipython_notebook img {                                                                                        
+    display:block;	
+    background: url("logo_blue.png") no-repeat;
+    background-size: contain;
+    width: 100px;
+    height: 30px;
+    padding-left: 100px;
+    padding-right: 50px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+   font-family: 'Lato';
+}
+
+body > #header {
+    background: #78abd2;
+}
+
+#notebook_name {
+    font-weight: 500;
+    color: white;
+}
+
+.checkpoint_status,
+.autosave_status {
+    color: white;
+}
+
+.navbar-default {
+    background: none;
+    border: none;
+}
+
+.navbar-default .navbar-nav > li > a, #kernel_indicator {
+    color: white;
+    transition: all 0.25s;
+}
+
+.navbar-default .navbar-nav > li > a:hover, #kernel_indicator:hover {
+    border-bottom: 2px solid #fff;
+    color: white;
+}
+
+.notebook_app {
+    background: white !important;
+}
+
+.container {
+    width: 95% !important;
+}
+
+#notebook-container {
+    box-shadow: none !important;
+    background-color: white;
+}
+
+div.input_area {
+    border: none;
+    border-radius: 0;
+    background: #f7f7f7;
+    line-height: 1.5em;
+    margin: 0.5em 0;
+    padding: 0;
+}
+
+div.cell {
+    transition: all 0.25s;
+    border: none;
+    position: relative;
+    top: 0;
+}
+
+div.cell.selected, div.cell.selected.jupyter-soft-selected {
+    border: none;
+    background: transparent;
+    box-shadow: 0 6px 18px #aaa;
+    z-index: 10;
+    top: -10px;
+}
+
+.output {
+    align-items: center;
+}
+
+.dataframe {
+    background: white;
+    box-shadow: 0px 1px 2px #bbb;
+}
+
+.dataframe thead th, .dataframe tbody td {
+    text-align: right;
+    padding: 1em;
+}
